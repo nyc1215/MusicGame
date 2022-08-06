@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 630ca61a9bf46ab4ab1be493189c3dcc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nomalNotePrefab: {fileID: 5431094907599587812, guid: ead1e97486f7be74ba711fd5eecd30c2, type: 3}
+  - lifeNotePrefab: {instanceID: 0}
+  - shieldNotePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

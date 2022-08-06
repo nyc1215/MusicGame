@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="25fgcqne">
+  <resources>
+    <component id="m25v0" name="GameComponent.xml" path="/" exported="true"/>
+    <image id="m25v1" name="iconmonstr-media-control-49-240.png" path="/"/>
+    <component id="m25v2" name="PauseButton.xml" path="/" exported="true"/>
+    <component id="m25v3" name="PauseComponent.xml" path="/" exported="true"/>
+    <image id="m25v4" name="iconmonstr-refresh-2-240.png" path="/"/>
+    <image id="m25v5" name="iconmonstr-video-13-240.png" path="/"/>
+    <image id="m25v6" name="iconmonstr-video-15-240.png" path="/"/>
+    <image id="m25v7" name="iconmonstr-arrow-64-240.png" path="/"/>
+    <component id="m25v8" name="ContinueButton.xml" path="/" exported="true"/>
+    <component id="m25v9" name="backButton.xml" path="/" exported="true"/>
+    <component id="m25va" name="reStartButton.xml" path="/" exported="true"/>
+    <component id="hgbtb" name="EndComponent.xml" path="/" exported="true"/>
+    <component id="hbjsc" name="CountComponent.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <component id="n1_m25v" name="pauseButton" src="m25v2" fileName="PauseButton.xml" xy="49,43" size="150,150"/>
+    <text id="n2_x7jc" name="lifeText" xy="502,70" size="274,79" font="ui://xfdhb4j9saysr" fontSize="60" vars="true" text="生命值：{life=5}"/>
+    <text id="n3_x7jc" name="shieldText" xy="1177,71" size="304,79" font="ui://xfdhb4j9saysr" fontSize="60" vars="true" text="护盾：{shield=none}"/>
+    <text id="n4_x7jc" name="musicProcess" xy="568,981" size="784,79" font="ui://xfdhb4j9saysr" fontSize="60" vars="true" autoSize="none" text="音乐进度 {now=00:00}/{total=00:00}  {process=100}%"/>
+  </displayList>
+</component>

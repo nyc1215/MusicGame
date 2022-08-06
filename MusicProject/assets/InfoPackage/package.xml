@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s9thrwcf">
+  <resources>
+    <component id="says0" name="InfoComponent.xml" path="/" exported="true"/>
+    <image id="says1" name="iconmonstr-arrow-64-240.png" path="/"/>
+    <component id="says2" name="Back_Button.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

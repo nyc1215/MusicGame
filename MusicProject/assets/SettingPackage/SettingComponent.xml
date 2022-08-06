@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n0_lh0u" name="background" xy="0,0" size="1920,1080" type="rect"/>
+    <component id="n2_lh0u" name="backButton" src="uut11" fileName="Back_Button.xml" xy="49,43" size="150,150" aspect="true"/>
+    <text id="n3_uut1" name="title" xy="596,109" size="728,170" font="ui://xfdhb4j9saysr" fontSize="120" align="center" autoSize="none" text="设置"/>
+    <component id="n4_uut1" name="resetButton" src="uut14" fileName="resetButton.xml" xy="1703,43" size="150,150"/>
+    <text id="n5_uut1" name="resetText" xy="1663,202" size="262,68" visible="false" font="ui://xfdhb4j9saysr" fontSize="40" autoSize="none" text="恢复默认设置"/>
+    <component id="n6_uut1" name="volLeft" src="uut11" fileName="Back_Button.xml" xy="685,358" size="120,120">
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="n8_uut1" sidePair=""/>
+    </component>
+    <component id="n8_uut1" name="volRight" src="uut1b" fileName="Right_Button.xml" xy="1265,361" size="120,120"/>
+    <text id="n9_uut1" name="n9" xy="452,361" size="164,120" fontSize="80" align="center" autoSize="none" text="音量"/>
+    <text id="n10_uut1" name="vol" xy="852,350" size="379,170" font="ui://xfdhb4j9saysr" fontSize="106" align="center" vars="true" autoSize="none" text="{vol=50}%"/>
+    <text id="n11_uut1" name="n11" xy="116,567" size="500,120" fontSize="80" align="center" autoSize="none" text="音乐播放偏移"/>
+    <component id="n12_uut1" name="TimeLeft" src="uut11" fileName="Back_Button.xml" xy="685,565" size="120,120">
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="n8_uut1" sidePair=""/>
+    </component>
+    <component id="n13_uut1" name="TimeRight" src="uut1b" fileName="Right_Button.xml" xy="1277,565" size="120,120"/>
+    <text id="n14_uut1" name="time" xy="855,563" size="376,136" font="ui://xfdhb4j9saysr" fontSize="106" align="center" vars="true" autoSize="shrink" text="{time=0}ms"/>
+    <text id="n15_cxc2" name="n15" xy="832,760" size="426,55" font="ui://xfdhb4j9saysr" fontSize="40" autoSize="none" text="长按按钮可以快速调整"/>
+  </displayList>
+</component>

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: 3-shieldNote
+  m_EditorClassIdentifier: 
+  mEventID: shield
+  mEventList:
+  - mStartSample: 2089956
+    mEndSample: 2089956
+  - mStartSample: 2200206
+    mEndSample: 2200206
+  - mStartSample: 2339217
+    mEndSample: 2339217
+  - mStartSample: 2473434
+    mEndSample: 2473434
+  - mStartSample: 3091793
+    mEndSample: 3091793
+  - mStartSample: 5315967
+    mEndSample: 5315967
+  - mStartSample: 6159619
+    mEndSample: 6159619
+  - mStartSample: 10119032
+    mEndSample: 10119032
+  - mStartSample: 10234076
+    mEndSample: 10234076
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.ColorPayload
+  _ColorPayloads:
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  _ColorPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

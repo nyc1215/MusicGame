@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n0_says" name="background" xy="0,0" size="1920,1080" type="rect"/>
+    <component id="n1_says" name="backButton" src="says2" fileName="Back_Button.xml" xy="50,43" size="150,150" aspect="true"/>
+    <text id="n2_says" name="title" xy="596,109" size="728,170" font="ui://xfdhb4j9saysr" fontSize="120" align="center" autoSize="none" text="制作信息"/>
+    <text id="n3_says" name="n3" xy="341,432" size="1331,597" font="ui://xfdhb4j9saysr" fontSize="60" autoSize="none" text="作者：nyc&#xA;&#xA;使用FariyGUI软件制作UI&#xA;使用Koreographer插件进行总体音乐事件控制&#xA;英文字体：Arual&#x9;中文字体：思源黑体&#xA;&#xA;Enjoy it 祝你生活愉快 (&gt; &lt;)"/>
+  </displayList>
+</component>

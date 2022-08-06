@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n0_lh0u" name="background" xy="0,0" size="1920,1080" type="rect"/>
+    <component id="n1_uut1" name="backButton" src="uut11" fileName="Back_Button.xml" xy="50,43" size="150,150" aspect="true"/>
+    <text id="n3_uut1" name="title" xy="596,109" size="728,170" font="ui://xfdhb4j9saysr" fontSize="120" align="center" autoSize="none" text="教程"/>
+    <text id="n4_uut1" name="n4" xy="269,350" size="476,509" font="ui://xfdhb4j9saysr" fontSize="60" align="center" autoSize="none" text="按键&#xA;&#xA;A：向左移动&#xA;D：向右移动&#xA;ESC：暂停&#xA;空格：反转重力&#xA;"/>
+    <text id="n5_uut1" name="n5" xy="868,350" size="946,85" font="ui://xfdhb4j9saysr" fontSize="60" align="center" autoSize="none" text="游戏玩法"/>
+    <text id="n6_uut1" name="n6" xy="868,512" size="946,319" font="ui://xfdhb4j9saysr" fontSize="48" autoSize="none" text="&#x9;操控角色，在随着音乐节奏生成的障碍物中快速穿梭，小心，不要撞到障碍物，那可是很疼的。&#xA;&#x9;多多在场上拾取加血和护盾道具，加油过关吧！"/>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tf7monvi">
+  <resources>
+    <component id="hgs80" name="SettingComponent.xml" path="/" exported="true"/>
+    <component id="uut11" name="Back_Button.xml" path="/" exported="true"/>
+    <image id="uut12" name="iconmonstr-process-1-240.png" path="/images/"/>
+    <image id="uut13" name="iconmonstr-process-2-240.png" path="/images/"/>
+    <component id="uut14" name="resetButton.xml" path="/" exported="true"/>
+    <image id="uut15" name="iconmonstr-arrow-64-240.png" path="/images/"/>
+    <image id="uut18" name="iconmonstr-arrow-63-240.png" path="/images/"/>
+    <component id="uut1b" name="Right_Button.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,600" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <text id="n0_hbjs" name="startCountdownText" xy="300,300" pivot="0.5,0.5" anchor="true" size="104,254" scale="2,2" font="ui://xfdhb4j9saysr" fontSize="200" vars="true" text="{Countdown=3}"/>
+  </displayList>
+</component>

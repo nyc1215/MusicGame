@@ -1,0 +1,2678 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: 3-normalNote
+  m_EditorClassIdentifier: 
+  mEventID: normal
+  mEventList:
+  - mStartSample: 91076
+    mEndSample: 91076
+  - mStartSample: 110250
+    mEndSample: 110250
+  - mStartSample: 129423
+    mEndSample: 129423
+  - mStartSample: 148597
+    mEndSample: 172565
+  - mStartSample: 186945
+    mEndSample: 186945
+  - mStartSample: 206119
+    mEndSample: 206119
+  - mStartSample: 225293
+    mEndSample: 225293
+  - mStartSample: 234880
+    mEndSample: 234880
+  - mStartSample: 244467
+    mEndSample: 244467
+  - mStartSample: 263641
+    mEndSample: 263641
+  - mStartSample: 282815
+    mEndSample: 282815
+  - mStartSample: 297195
+    mEndSample: 325956
+  - mStartSample: 340336
+    mEndSample: 340336
+  - mStartSample: 359510
+    mEndSample: 359510
+  - mStartSample: 378684
+    mEndSample: 378684
+  - mStartSample: 388271
+    mEndSample: 388271
+  - mStartSample: 397858
+    mEndSample: 397858
+  - mStartSample: 417032
+    mEndSample: 417032
+  - mStartSample: 436206
+    mEndSample: 436206
+  - mStartSample: 450586
+    mEndSample: 479347
+  - mStartSample: 493728
+    mEndSample: 493728
+  - mStartSample: 512902
+    mEndSample: 512902
+  - mStartSample: 532076
+    mEndSample: 532076
+  - mStartSample: 541663
+    mEndSample: 541663
+  - mStartSample: 551250
+    mEndSample: 551250
+  - mStartSample: 570423
+    mEndSample: 570423
+  - mStartSample: 589597
+    mEndSample: 589597
+  - mStartSample: 603978
+    mEndSample: 632739
+  - mStartSample: 647119
+    mEndSample: 647119
+  - mStartSample: 666293
+    mEndSample: 666293
+  - mStartSample: 685467
+    mEndSample: 685467
+  - mStartSample: 719021
+    mEndSample: 733402
+  - mStartSample: 752576
+    mEndSample: 771750
+  - mStartSample: 790923
+    mEndSample: 810097
+  - mStartSample: 829271
+    mEndSample: 829271
+  - mStartSample: 848445
+    mEndSample: 848445
+  - mStartSample: 872413
+    mEndSample: 872413
+  - mStartSample: 910760
+    mEndSample: 910760
+  - mStartSample: 944315
+    mEndSample: 944315
+  - mStartSample: 982663
+    mEndSample: 982663
+  - mStartSample: 987456
+    mEndSample: 987456
+  - mStartSample: 1001836
+    mEndSample: 1001836
+  - mStartSample: 1006630
+    mEndSample: 1006630
+  - mStartSample: 1030597
+    mEndSample: 1059358
+  - mStartSample: 1068945
+    mEndSample: 1102500
+  - mStartSample: 1107293
+    mEndSample: 1107293
+  - mStartSample: 1140847
+    mEndSample: 1140847
+  - mStartSample: 1145641
+    mEndSample: 1145641
+  - mStartSample: 1160021
+    mEndSample: 1160021
+  - mStartSample: 1164815
+    mEndSample: 1164815
+  - mStartSample: 1183989
+    mEndSample: 1183989
+  - mStartSample: 1217543
+    mEndSample: 1217543
+  - mStartSample: 1255891
+    mEndSample: 1255891
+  - mStartSample: 1284652
+    mEndSample: 1323000
+  - mStartSample: 1375728
+    mEndSample: 1375728
+  - mStartSample: 1380521
+    mEndSample: 1380521
+  - mStartSample: 1409282
+    mEndSample: 1409282
+  - mStartSample: 1414076
+    mEndSample: 1414076
+  - mStartSample: 1442836
+    mEndSample: 1442836
+  - mStartSample: 1447630
+    mEndSample: 1447630
+  - mStartSample: 1457217
+    mEndSample: 1457217
+  - mStartSample: 1462010
+    mEndSample: 1462010
+  - mStartSample: 1481184
+    mEndSample: 1481184
+  - mStartSample: 1485978
+    mEndSample: 1485978
+  - mStartSample: 1519532
+    mEndSample: 1519532
+  - mStartSample: 1524326
+    mEndSample: 1524326
+  - mStartSample: 1557880
+    mEndSample: 1557880
+  - mStartSample: 1562673
+    mEndSample: 1562673
+  - mStartSample: 1596228
+    mEndSample: 1596228
+  - mStartSample: 1601021
+    mEndSample: 1601021
+  - mStartSample: 1615402
+    mEndSample: 1615402
+  - mStartSample: 1620195
+    mEndSample: 1620195
+  - mStartSample: 1639369
+    mEndSample: 1639369
+  - mStartSample: 1644163
+    mEndSample: 1644163
+  - mStartSample: 1672923
+    mEndSample: 1672923
+  - mStartSample: 1677717
+    mEndSample: 1677717
+  - mStartSample: 1711271
+    mEndSample: 1711271
+  - mStartSample: 1716065
+    mEndSample: 1716065
+  - mStartSample: 1749619
+    mEndSample: 1749619
+  - mStartSample: 1754413
+    mEndSample: 1754413
+  - mStartSample: 1773586
+    mEndSample: 1773586
+  - mStartSample: 1778380
+    mEndSample: 1778380
+  - mStartSample: 1792760
+    mEndSample: 1792760
+  - mStartSample: 1797554
+    mEndSample: 1797554
+  - mStartSample: 1826315
+    mEndSample: 1826315
+  - mStartSample: 1831108
+    mEndSample: 1831108
+  - mStartSample: 1864663
+    mEndSample: 1864663
+  - mStartSample: 1869456
+    mEndSample: 1869456
+  - mStartSample: 1893423
+    mEndSample: 1960532
+  - mStartSample: 1979706
+    mEndSample: 1994086
+  - mStartSample: 2042021
+    mEndSample: 2065989
+  - mStartSample: 2128304
+    mEndSample: 2152271
+  - mStartSample: 2205000
+    mEndSample: 2238554
+  - mStartSample: 2281695
+    mEndSample: 2305663
+  - mStartSample: 2348804
+    mEndSample: 2382358
+  - mStartSample: 2435086
+    mEndSample: 2459054
+  - mStartSample: 2516576
+    mEndSample: 2516576
+  - mStartSample: 2521369
+    mEndSample: 2521369
+  - mStartSample: 2526163
+    mEndSample: 2526163
+  - mStartSample: 2530956
+    mEndSample: 2530956
+  - mStartSample: 2535750
+    mEndSample: 2535750
+  - mStartSample: 2540543
+    mEndSample: 2540543
+  - mStartSample: 2545336
+    mEndSample: 2545336
+  - mStartSample: 2564510
+    mEndSample: 2564510
+  - mStartSample: 2598065
+    mEndSample: 2598065
+  - mStartSample: 2631619
+    mEndSample: 2631619
+  - mStartSample: 2636413
+    mEndSample: 2636413
+  - mStartSample: 2669967
+    mEndSample: 2669967
+  - mStartSample: 2674760
+    mEndSample: 2674760
+  - mStartSample: 2717902
+    mEndSample: 2717902
+  - mStartSample: 2727489
+    mEndSample: 2727489
+  - mStartSample: 2732282
+    mEndSample: 2732282
+  - mStartSample: 2737076
+    mEndSample: 2737076
+  - mStartSample: 2765836
+    mEndSample: 2765836
+  - mStartSample: 2770630
+    mEndSample: 2770630
+  - mStartSample: 2813771
+    mEndSample: 2813771
+  - mStartSample: 2818565
+    mEndSample: 2852119
+  - mStartSample: 2861706
+    mEndSample: 2861706
+  - mStartSample: 2866500
+    mEndSample: 2866500
+  - mStartSample: 2871293
+    mEndSample: 2871293
+  - mStartSample: 2876086
+    mEndSample: 2876086
+  - mStartSample: 2880880
+    mEndSample: 2880880
+  - mStartSample: 2885673
+    mEndSample: 2885673
+  - mStartSample: 2919228
+    mEndSample: 2919228
+  - mStartSample: 2933608
+    mEndSample: 2933608
+  - mStartSample: 2943195
+    mEndSample: 2943195
+  - mStartSample: 2957576
+    mEndSample: 2957576
+  - mStartSample: 2962369
+    mEndSample: 2962369
+  - mStartSample: 2995923
+    mEndSample: 2995923
+  - mStartSample: 3000716
+    mEndSample: 3000716
+  - mStartSample: 3005510
+    mEndSample: 3005510
+  - mStartSample: 3015097
+    mEndSample: 3015097
+  - mStartSample: 3029478
+    mEndSample: 3053445
+  - mStartSample: 3154108
+    mEndSample: 3154108
+  - mStartSample: 3168489
+    mEndSample: 3168489
+  - mStartSample: 3173282
+    mEndSample: 3173282
+  - mStartSample: 3178076
+    mEndSample: 3178076
+  - mStartSample: 3182869
+    mEndSample: 3182869
+  - mStartSample: 3187663
+    mEndSample: 3187663
+  - mStartSample: 3192456
+    mEndSample: 3192456
+  - mStartSample: 3197250
+    mEndSample: 3197250
+  - mStartSample: 3202043
+    mEndSample: 3202043
+  - mStartSample: 3206836
+    mEndSample: 3206836
+  - mStartSample: 3226010
+    mEndSample: 3226010
+  - mStartSample: 3230804
+    mEndSample: 3230804
+  - mStartSample: 3249978
+    mEndSample: 3249978
+  - mStartSample: 3269152
+    mEndSample: 3269152
+  - mStartSample: 3273945
+    mEndSample: 3273945
+  - mStartSample: 3312293
+    mEndSample: 3312293
+  - mStartSample: 3326673
+    mEndSample: 3326673
+  - mStartSample: 3331467
+    mEndSample: 3331467
+  - mStartSample: 3341054
+    mEndSample: 3341054
+  - mStartSample: 3345847
+    mEndSample: 3345847
+  - mStartSample: 3360228
+    mEndSample: 3360228
+  - mStartSample: 3379402
+    mEndSample: 3379402
+  - mStartSample: 3384195
+    mEndSample: 3384195
+  - mStartSample: 3403369
+    mEndSample: 3403369
+  - mStartSample: 3408163
+    mEndSample: 3408163
+  - mStartSample: 3427336
+    mEndSample: 3427336
+  - mStartSample: 3436923
+    mEndSample: 3465684
+  - mStartSample: 3475271
+    mEndSample: 3475271
+  - mStartSample: 3480065
+    mEndSample: 3480065
+  - mStartSample: 3489652
+    mEndSample: 3489652
+  - mStartSample: 3494445
+    mEndSample: 3494445
+  - mStartSample: 3499239
+    mEndSample: 3499239
+  - mStartSample: 3504032
+    mEndSample: 3504032
+  - mStartSample: 3513619
+    mEndSample: 3513619
+  - mStartSample: 3518413
+    mEndSample: 3518413
+  - mStartSample: 3532793
+    mEndSample: 3532793
+  - mStartSample: 3537586
+    mEndSample: 3537586
+  - mStartSample: 3551967
+    mEndSample: 3551967
+  - mStartSample: 3556760
+    mEndSample: 3556760
+  - mStartSample: 3575934
+    mEndSample: 3575934
+  - mStartSample: 3580728
+    mEndSample: 3580728
+  - mStartSample: 3590315
+    mEndSample: 3590315
+  - mStartSample: 3595108
+    mEndSample: 3595108
+  - mStartSample: 3604695
+    mEndSample: 3604695
+  - mStartSample: 3609489
+    mEndSample: 3609489
+  - mStartSample: 3633456
+    mEndSample: 3633456
+  - mStartSample: 3638250
+    mEndSample: 3638250
+  - mStartSample: 3652630
+    mEndSample: 3652630
+  - mStartSample: 3671804
+    mEndSample: 3671804
+  - mStartSample: 3690978
+    mEndSample: 3700565
+  - mStartSample: 3710152
+    mEndSample: 3719739
+  - mStartSample: 3729326
+    mEndSample: 3738913
+  - mStartSample: 3748500
+    mEndSample: 3758086
+  - mStartSample: 3786847
+    mEndSample: 3825195
+  - mStartSample: 3858750
+    mEndSample: 3858750
+  - mStartSample: 3863543
+    mEndSample: 3892304
+  - mStartSample: 3921065
+    mEndSample: 3921065
+  - mStartSample: 3925859
+    mEndSample: 3964206
+  - mStartSample: 4002554
+    mEndSample: 4002554
+  - mStartSample: 4007347
+    mEndSample: 4045695
+  - mStartSample: 4074456
+    mEndSample: 4074456
+  - mStartSample: 4084043
+    mEndSample: 4127184
+  - mStartSample: 4146358
+    mEndSample: 4146358
+  - mStartSample: 4151152
+    mEndSample: 4208673
+  - mStartSample: 4223054
+    mEndSample: 4223054
+  - mStartSample: 4227847
+    mEndSample: 4294956
+  - mStartSample: 4309336
+    mEndSample: 4309336
+  - mStartSample: 4314130
+    mEndSample: 4376445
+  - mStartSample: 4386032
+    mEndSample: 4386032
+  - mStartSample: 4390826
+    mEndSample: 4438760
+  - mStartSample: 4472315
+    mEndSample: 4472315
+  - mStartSample: 4477108
+    mEndSample: 4477108
+  - mStartSample: 4491489
+    mEndSample: 4491489
+  - mStartSample: 4496282
+    mEndSample: 4496282
+  - mStartSample: 4510663
+    mEndSample: 4510663
+  - mStartSample: 4515456
+    mEndSample: 4515456
+  - mStartSample: 4529836
+    mEndSample: 4529836
+  - mStartSample: 4534630
+    mEndSample: 4534630
+  - mStartSample: 4549010
+    mEndSample: 4549010
+  - mStartSample: 4553804
+    mEndSample: 4553804
+  - mStartSample: 4568184
+    mEndSample: 4568184
+  - mStartSample: 4572978
+    mEndSample: 4572978
+  - mStartSample: 4587358
+    mEndSample: 4587358
+  - mStartSample: 4592152
+    mEndSample: 4592152
+  - mStartSample: 4606532
+    mEndSample: 4606532
+  - mStartSample: 4611326
+    mEndSample: 4611326
+  - mStartSample: 4625706
+    mEndSample: 4625706
+  - mStartSample: 4630500
+    mEndSample: 4630500
+  - mStartSample: 4644880
+    mEndSample: 4644880
+  - mStartSample: 4649673
+    mEndSample: 4649673
+  - mStartSample: 4664054
+    mEndSample: 4664054
+  - mStartSample: 4668847
+    mEndSample: 4668847
+  - mStartSample: 4688021
+    mEndSample: 4688021
+  - mStartSample: 4707195
+    mEndSample: 4707195
+  - mStartSample: 4726369
+    mEndSample: 4726369
+  - mStartSample: 4731163
+    mEndSample: 4731163
+  - mStartSample: 4745543
+    mEndSample: 4745543
+  - mStartSample: 4750336
+    mEndSample: 4750336
+  - mStartSample: 4764717
+    mEndSample: 4764717
+  - mStartSample: 4769510
+    mEndSample: 4769510
+  - mStartSample: 4783891
+    mEndSample: 4783891
+  - mStartSample: 4788684
+    mEndSample: 4788684
+  - mStartSample: 4803065
+    mEndSample: 4803065
+  - mStartSample: 4822239
+    mEndSample: 4822239
+  - mStartSample: 4841413
+    mEndSample: 4841413
+  - mStartSample: 4860586
+    mEndSample: 4860586
+  - mStartSample: 4879760
+    mEndSample: 4879760
+  - mStartSample: 4884554
+    mEndSample: 4884554
+  - mStartSample: 4898934
+    mEndSample: 4898934
+  - mStartSample: 4903728
+    mEndSample: 4903728
+  - mStartSample: 4918108
+    mEndSample: 4918108
+  - mStartSample: 4937282
+    mEndSample: 4937282
+  - mStartSample: 4942076
+    mEndSample: 4942076
+  - mStartSample: 4956456
+    mEndSample: 4956456
+  - mStartSample: 4975630
+    mEndSample: 4975630
+  - mStartSample: 5009184
+    mEndSample: 5057119
+  - mStartSample: 5085880
+    mEndSample: 5129021
+  - mStartSample: 5162576
+    mEndSample: 5220097
+  - mStartSample: 5268032
+    mEndSample: 5306380
+  - mStartSample: 5363902
+    mEndSample: 5407043
+  - mStartSample: 5435804
+    mEndSample: 5478945
+  - mStartSample: 5502913
+    mEndSample: 5546054
+  - mStartSample: 5598782
+    mEndSample: 5641923
+  - mStartSample: 5670684
+    mEndSample: 5699445
+  - mStartSample: 5742586
+    mEndSample: 5771347
+  - mStartSample: 5809695
+    mEndSample: 5833662
+  - mStartSample: 5848043
+    mEndSample: 5848043
+  - mStartSample: 5852836
+    mEndSample: 5852836
+  - mStartSample: 5857630
+    mEndSample: 5857630
+  - mStartSample: 5862423
+    mEndSample: 5862423
+  - mStartSample: 5867217
+    mEndSample: 5867217
+  - mStartSample: 5872010
+    mEndSample: 5872010
+  - mStartSample: 5876804
+    mEndSample: 5876804
+  - mStartSample: 5881597
+    mEndSample: 5881597
+  - mStartSample: 5886391
+    mEndSample: 5886391
+  - mStartSample: 5891184
+    mEndSample: 5891184
+  - mStartSample: 5919945
+    mEndSample: 5919945
+  - mStartSample: 5924739
+    mEndSample: 5924739
+  - mStartSample: 5929532
+    mEndSample: 5929532
+  - mStartSample: 5934326
+    mEndSample: 5934326
+  - mStartSample: 5939119
+    mEndSample: 5939119
+  - mStartSample: 5943913
+    mEndSample: 5943913
+  - mStartSample: 5948706
+    mEndSample: 5948706
+  - mStartSample: 5953500
+    mEndSample: 5953500
+  - mStartSample: 5958293
+    mEndSample: 5958293
+  - mStartSample: 5963086
+    mEndSample: 5963086
+  - mStartSample: 5967880
+    mEndSample: 5967880
+  - mStartSample: 6001434
+    mEndSample: 6001434
+  - mStartSample: 6006228
+    mEndSample: 6006228
+  - mStartSample: 6011021
+    mEndSample: 6011021
+  - mStartSample: 6015815
+    mEndSample: 6015815
+  - mStartSample: 6020608
+    mEndSample: 6020608
+  - mStartSample: 6025402
+    mEndSample: 6025402
+  - mStartSample: 6030195
+    mEndSample: 6030195
+  - mStartSample: 6034989
+    mEndSample: 6034989
+  - mStartSample: 6039782
+    mEndSample: 6039782
+  - mStartSample: 6044576
+    mEndSample: 6044576
+  - mStartSample: 6078130
+    mEndSample: 6078130
+  - mStartSample: 6082923
+    mEndSample: 6082923
+  - mStartSample: 6087717
+    mEndSample: 6087717
+  - mStartSample: 6092510
+    mEndSample: 6092510
+  - mStartSample: 6097304
+    mEndSample: 6097304
+  - mStartSample: 6102097
+    mEndSample: 6102097
+  - mStartSample: 6106891
+    mEndSample: 6106891
+  - mStartSample: 6111684
+    mEndSample: 6111684
+  - mStartSample: 6116478
+    mEndSample: 6116478
+  - mStartSample: 6121271
+    mEndSample: 6121271
+  - mStartSample: 6126065
+    mEndSample: 6126065
+  - mStartSample: 6197967
+    mEndSample: 6197967
+  - mStartSample: 6202760
+    mEndSample: 6202760
+  - mStartSample: 6217141
+    mEndSample: 6217141
+  - mStartSample: 6221934
+    mEndSample: 6221934
+  - mStartSample: 6241108
+    mEndSample: 6241108
+  - mStartSample: 6245902
+    mEndSample: 6245902
+  - mStartSample: 6274663
+    mEndSample: 6274663
+  - mStartSample: 6279456
+    mEndSample: 6279456
+  - mStartSample: 6313010
+    mEndSample: 6313010
+  - mStartSample: 6317804
+    mEndSample: 6317804
+  - mStartSample: 6356152
+    mEndSample: 6356152
+  - mStartSample: 6360945
+    mEndSample: 6360945
+  - mStartSample: 6370532
+    mEndSample: 6370532
+  - mStartSample: 6375326
+    mEndSample: 6375326
+  - mStartSample: 6389706
+    mEndSample: 6389706
+  - mStartSample: 6394500
+    mEndSample: 6394500
+  - mStartSample: 6399293
+    mEndSample: 6399293
+  - mStartSample: 6432847
+    mEndSample: 6432847
+  - mStartSample: 6437641
+    mEndSample: 6437641
+  - mStartSample: 6471195
+    mEndSample: 6471195
+  - mStartSample: 6475989
+    mEndSample: 6475989
+  - mStartSample: 6509543
+    mEndSample: 6509543
+  - mStartSample: 6514336
+    mEndSample: 6514336
+  - mStartSample: 6528717
+    mEndSample: 6528717
+  - mStartSample: 6533510
+    mEndSample: 6533510
+  - mStartSample: 6543097
+    mEndSample: 6543097
+  - mStartSample: 6547891
+    mEndSample: 6547891
+  - mStartSample: 6552684
+    mEndSample: 6552684
+  - mStartSample: 6557478
+    mEndSample: 6557478
+  - mStartSample: 6581445
+    mEndSample: 6605413
+  - mStartSample: 6619793
+    mEndSample: 6643760
+  - mStartSample: 6658141
+    mEndSample: 6658141
+  - mStartSample: 6662934
+    mEndSample: 6662934
+  - mStartSample: 6677315
+    mEndSample: 6677315
+  - mStartSample: 6682108
+    mEndSample: 6682108
+  - mStartSample: 6696489
+    mEndSample: 6725250
+  - mStartSample: 6739630
+    mEndSample: 6768391
+  - mStartSample: 6773184
+    mEndSample: 6792358
+  - mStartSample: 6797152
+    mEndSample: 6797152
+  - mStartSample: 6801945
+    mEndSample: 6801945
+  - mStartSample: 6806739
+    mEndSample: 6806739
+  - mStartSample: 6811532
+    mEndSample: 6811532
+  - mStartSample: 6816326
+    mEndSample: 6816326
+  - mStartSample: 6821119
+    mEndSample: 6821119
+  - mStartSample: 6825913
+    mEndSample: 6825913
+  - mStartSample: 6830706
+    mEndSample: 6830706
+  - mStartSample: 6835500
+    mEndSample: 6835500
+  - mStartSample: 6840293
+    mEndSample: 6840293
+  - mStartSample: 6845086
+    mEndSample: 6845086
+  - mStartSample: 6854673
+    mEndSample: 6854673
+  - mStartSample: 6859467
+    mEndSample: 6859467
+  - mStartSample: 6888228
+    mEndSample: 6888228
+  - mStartSample: 6893021
+    mEndSample: 6893021
+  - mStartSample: 6897815
+    mEndSample: 6897815
+  - mStartSample: 6926576
+    mEndSample: 6926576
+  - mStartSample: 6931369
+    mEndSample: 6931369
+  - mStartSample: 6936163
+    mEndSample: 6936163
+  - mStartSample: 6945750
+    mEndSample: 6945750
+  - mStartSample: 6950543
+    mEndSample: 6950543
+  - mStartSample: 6964923
+    mEndSample: 6964923
+  - mStartSample: 6969717
+    mEndSample: 6969717
+  - mStartSample: 6984097
+    mEndSample: 6984097
+  - mStartSample: 6988891
+    mEndSample: 6988891
+  - mStartSample: 7003271
+    mEndSample: 7003271
+  - mStartSample: 7008065
+    mEndSample: 7008065
+  - mStartSample: 7027239
+    mEndSample: 7056000
+  - mStartSample: 7060793
+    mEndSample: 7060793
+  - mStartSample: 7065586
+    mEndSample: 7065586
+  - mStartSample: 7079967
+    mEndSample: 7079967
+  - mStartSample: 7084760
+    mEndSample: 7084760
+  - mStartSample: 7099141
+    mEndSample: 7099141
+  - mStartSample: 7103934
+    mEndSample: 7103934
+  - mStartSample: 7123108
+    mEndSample: 7123108
+  - mStartSample: 7127902
+    mEndSample: 7127902
+  - mStartSample: 7137489
+    mEndSample: 7137489
+  - mStartSample: 7142282
+    mEndSample: 7142282
+  - mStartSample: 7156663
+    mEndSample: 7156663
+  - mStartSample: 7161456
+    mEndSample: 7161456
+  - mStartSample: 7175836
+    mEndSample: 7175836
+  - mStartSample: 7180630
+    mEndSample: 7180630
+  - mStartSample: 7195010
+    mEndSample: 7195010
+  - mStartSample: 7199804
+    mEndSample: 7199804
+  - mStartSample: 7218978
+    mEndSample: 7218978
+  - mStartSample: 7233358
+    mEndSample: 7233358
+  - mStartSample: 7238152
+    mEndSample: 7238152
+  - mStartSample: 7257326
+    mEndSample: 7257326
+  - mStartSample: 7262119
+    mEndSample: 7262119
+  - mStartSample: 7276500
+    mEndSample: 7276500
+  - mStartSample: 7281293
+    mEndSample: 7281293
+  - mStartSample: 7290880
+    mEndSample: 7290880
+  - mStartSample: 7295673
+    mEndSample: 7295673
+  - mStartSample: 7310054
+    mEndSample: 7310054
+  - mStartSample: 7314847
+    mEndSample: 7314847
+  - mStartSample: 7334021
+    mEndSample: 7334021
+  - mStartSample: 7353195
+    mEndSample: 7353195
+  - mStartSample: 7367576
+    mEndSample: 7367576
+  - mStartSample: 7372369
+    mEndSample: 7372369
+  - mStartSample: 7391543
+    mEndSample: 7391543
+  - mStartSample: 7410717
+    mEndSample: 7410717
+  - mStartSample: 7425097
+    mEndSample: 7425097
+  - mStartSample: 7429891
+    mEndSample: 7429891
+  - mStartSample: 7434684
+    mEndSample: 7434684
+  - mStartSample: 7439478
+    mEndSample: 7439478
+  - mStartSample: 7444271
+    mEndSample: 7444271
+  - mStartSample: 7449065
+    mEndSample: 7449065
+  - mStartSample: 7453858
+    mEndSample: 7453858
+  - mStartSample: 7458652
+    mEndSample: 7458652
+  - mStartSample: 7463445
+    mEndSample: 7463445
+  - mStartSample: 7482619
+    mEndSample: 7482619
+  - mStartSample: 7487413
+    mEndSample: 7487413
+  - mStartSample: 7506586
+    mEndSample: 7506586
+  - mStartSample: 7540141
+    mEndSample: 7540141
+  - mStartSample: 7544934
+    mEndSample: 7544934
+  - mStartSample: 7578489
+    mEndSample: 7578489
+  - mStartSample: 7583282
+    mEndSample: 7583282
+  - mStartSample: 7597663
+    mEndSample: 7597663
+  - mStartSample: 7602456
+    mEndSample: 7602456
+  - mStartSample: 7621630
+    mEndSample: 7621630
+  - mStartSample: 7626423
+    mEndSample: 7626423
+  - mStartSample: 7655184
+    mEndSample: 7655184
+  - mStartSample: 7659978
+    mEndSample: 7659978
+  - mStartSample: 7693532
+    mEndSample: 7693532
+  - mStartSample: 7698326
+    mEndSample: 7698326
+  - mStartSample: 7712706
+    mEndSample: 7712706
+  - mStartSample: 7717500
+    mEndSample: 7717500
+  - mStartSample: 7731880
+    mEndSample: 7731880
+  - mStartSample: 7736673
+    mEndSample: 7736673
+  - mStartSample: 7751054
+    mEndSample: 7751054
+  - mStartSample: 7755847
+    mEndSample: 7755847
+  - mStartSample: 7775021
+    mEndSample: 7775021
+  - mStartSample: 7779815
+    mEndSample: 7779815
+  - mStartSample: 7846923
+    mEndSample: 7846923
+  - mStartSample: 7851717
+    mEndSample: 7851717
+  - mStartSample: 7866097
+    mEndSample: 7866097
+  - mStartSample: 7870891
+    mEndSample: 7870891
+  - mStartSample: 7885271
+    mEndSample: 7885271
+  - mStartSample: 7890065
+    mEndSample: 7890065
+  - mStartSample: 7894858
+    mEndSample: 7894858
+  - mStartSample: 7899652
+    mEndSample: 7899652
+  - mStartSample: 7904445
+    mEndSample: 7904445
+  - mStartSample: 7909239
+    mEndSample: 7909239
+  - mStartSample: 7914032
+    mEndSample: 7914032
+  - mStartSample: 7923619
+    mEndSample: 7923619
+  - mStartSample: 7928413
+    mEndSample: 7928413
+  - mStartSample: 7947586
+    mEndSample: 7947586
+  - mStartSample: 7961967
+    mEndSample: 7961967
+  - mStartSample: 7966760
+    mEndSample: 7966760
+  - mStartSample: 8000315
+    mEndSample: 8000315
+  - mStartSample: 8005108
+    mEndSample: 8005108
+  - mStartSample: 8019489
+    mEndSample: 8019489
+  - mStartSample: 8024282
+    mEndSample: 8024282
+  - mStartSample: 8038663
+    mEndSample: 8038663
+  - mStartSample: 8043456
+    mEndSample: 8043456
+  - mStartSample: 8062630
+    mEndSample: 8062630
+  - mStartSample: 8081804
+    mEndSample: 8081804
+  - mStartSample: 8086597
+    mEndSample: 8086597
+  - mStartSample: 8091391
+    mEndSample: 8091391
+  - mStartSample: 8096184
+    mEndSample: 8096184
+  - mStartSample: 8100978
+    mEndSample: 8100978
+  - mStartSample: 8105771
+    mEndSample: 8105771
+  - mStartSample: 8110565
+    mEndSample: 8110565
+  - mStartSample: 8120152
+    mEndSample: 8120152
+  - mStartSample: 8124945
+    mEndSample: 8124945
+  - mStartSample: 8139326
+    mEndSample: 8139326
+  - mStartSample: 8144119
+    mEndSample: 8144119
+  - mStartSample: 8153706
+    mEndSample: 8153706
+  - mStartSample: 8158500
+    mEndSample: 8158500
+  - mStartSample: 8163293
+    mEndSample: 8163293
+  - mStartSample: 8177673
+    mEndSample: 8177673
+  - mStartSample: 8182467
+    mEndSample: 8182467
+  - mStartSample: 8192054
+    mEndSample: 8192054
+  - mStartSample: 8196847
+    mEndSample: 8196847
+  - mStartSample: 8201641
+    mEndSample: 8201641
+  - mStartSample: 8206434
+    mEndSample: 8206434
+  - mStartSample: 8211228
+    mEndSample: 8211228
+  - mStartSample: 8216021
+    mEndSample: 8216021
+  - mStartSample: 8220815
+    mEndSample: 8220815
+  - mStartSample: 8225608
+    mEndSample: 8225608
+  - mStartSample: 8235195
+    mEndSample: 8235195
+  - mStartSample: 8239989
+    mEndSample: 8239989
+  - mStartSample: 8244782
+    mEndSample: 8244782
+  - mStartSample: 8249576
+    mEndSample: 8249576
+  - mStartSample: 8254369
+    mEndSample: 8254369
+  - mStartSample: 8259163
+    mEndSample: 8259163
+  - mStartSample: 8263956
+    mEndSample: 8263956
+  - mStartSample: 8268750
+    mEndSample: 8268750
+  - mStartSample: 8273543
+    mEndSample: 8273543
+  - mStartSample: 8292717
+    mEndSample: 8292717
+  - mStartSample: 8297510
+    mEndSample: 8297510
+  - mStartSample: 8311891
+    mEndSample: 8311891
+  - mStartSample: 8316684
+    mEndSample: 8316684
+  - mStartSample: 8326271
+    mEndSample: 8326271
+  - mStartSample: 8331065
+    mEndSample: 8331065
+  - mStartSample: 8345445
+    mEndSample: 8345445
+  - mStartSample: 8350239
+    mEndSample: 8350239
+  - mStartSample: 8364619
+    mEndSample: 8364619
+  - mStartSample: 8369413
+    mEndSample: 8369413
+  - mStartSample: 8383793
+    mEndSample: 8383793
+  - mStartSample: 8388586
+    mEndSample: 8388586
+  - mStartSample: 8393380
+    mEndSample: 8393380
+  - mStartSample: 8402967
+    mEndSample: 8402967
+  - mStartSample: 8407760
+    mEndSample: 8407760
+  - mStartSample: 8412554
+    mEndSample: 8412554
+  - mStartSample: 8422141
+    mEndSample: 8422141
+  - mStartSample: 8426934
+    mEndSample: 8426934
+  - mStartSample: 8460489
+    mEndSample: 8460489
+  - mStartSample: 8465282
+    mEndSample: 8465282
+  - mStartSample: 8484456
+    mEndSample: 8484456
+  - mStartSample: 8503630
+    mEndSample: 8503630
+  - mStartSample: 8508423
+    mEndSample: 8508423
+  - mStartSample: 8518010
+    mEndSample: 8518010
+  - mStartSample: 8522804
+    mEndSample: 8522804
+  - mStartSample: 8527597
+    mEndSample: 8527597
+  - mStartSample: 8541978
+    mEndSample: 8541978
+  - mStartSample: 8546771
+    mEndSample: 8546771
+  - mStartSample: 8561152
+    mEndSample: 8561152
+  - mStartSample: 8565945
+    mEndSample: 8565945
+  - mStartSample: 8580326
+    mEndSample: 8580326
+  - mStartSample: 8585119
+    mEndSample: 8585119
+  - mStartSample: 8613880
+    mEndSample: 8613880
+  - mStartSample: 8618673
+    mEndSample: 8618673
+  - mStartSample: 8633054
+    mEndSample: 8633054
+  - mStartSample: 8637847
+    mEndSample: 8637847
+  - mStartSample: 8657021
+    mEndSample: 8657021
+  - mStartSample: 8671402
+    mEndSample: 8671402
+  - mStartSample: 8676195
+    mEndSample: 8676195
+  - mStartSample: 8695369
+    mEndSample: 8695369
+  - mStartSample: 8700163
+    mEndSample: 8700163
+  - mStartSample: 8704956
+    mEndSample: 8704956
+  - mStartSample: 8709750
+    mEndSample: 8709750
+  - mStartSample: 8714543
+    mEndSample: 8714543
+  - mStartSample: 8719336
+    mEndSample: 8719336
+  - mStartSample: 8724130
+    mEndSample: 8724130
+  - mStartSample: 8728923
+    mEndSample: 8728923
+  - mStartSample: 8767271
+    mEndSample: 8767271
+  - mStartSample: 8772065
+    mEndSample: 8772065
+  - mStartSample: 8776858
+    mEndSample: 8776858
+  - mStartSample: 8781652
+    mEndSample: 8781652
+  - mStartSample: 8786445
+    mEndSample: 8786445
+  - mStartSample: 8791239
+    mEndSample: 8791239
+  - mStartSample: 8796032
+    mEndSample: 8796032
+  - mStartSample: 8800826
+    mEndSample: 8800826
+  - mStartSample: 8805619
+    mEndSample: 8805619
+  - mStartSample: 8834380
+    mEndSample: 8834380
+  - mStartSample: 8839173
+    mEndSample: 8839173
+  - mStartSample: 8848760
+    mEndSample: 8848760
+  - mStartSample: 8853554
+    mEndSample: 8853554
+  - mStartSample: 8863141
+    mEndSample: 8863141
+  - mStartSample: 8867934
+    mEndSample: 8867934
+  - mStartSample: 8872728
+    mEndSample: 8872728
+  - mStartSample: 8877521
+    mEndSample: 8877521
+  - mStartSample: 8882315
+    mEndSample: 8882315
+  - mStartSample: 8887108
+    mEndSample: 8887108
+  - mStartSample: 8901489
+    mEndSample: 8901489
+  - mStartSample: 8906282
+    mEndSample: 8906282
+  - mStartSample: 8920663
+    mEndSample: 8920663
+  - mStartSample: 8925456
+    mEndSample: 8925456
+  - mStartSample: 8930250
+    mEndSample: 8930250
+  - mStartSample: 8935043
+    mEndSample: 8935043
+  - mStartSample: 8939836
+    mEndSample: 8939836
+  - mStartSample: 8944630
+    mEndSample: 8944630
+  - mStartSample: 8949423
+    mEndSample: 8949423
+  - mStartSample: 8954217
+    mEndSample: 8954217
+  - mStartSample: 8959010
+    mEndSample: 8959010
+  - mStartSample: 8963804
+    mEndSample: 8963804
+  - mStartSample: 8978184
+    mEndSample: 8978184
+  - mStartSample: 8982978
+    mEndSample: 8982978
+  - mStartSample: 8997358
+    mEndSample: 8997358
+  - mStartSample: 9002152
+    mEndSample: 9002152
+  - mStartSample: 9006945
+    mEndSample: 9006945
+  - mStartSample: 9016532
+    mEndSample: 9016532
+  - mStartSample: 9021326
+    mEndSample: 9021326
+  - mStartSample: 9035706
+    mEndSample: 9035706
+  - mStartSample: 9040500
+    mEndSample: 9040500
+  - mStartSample: 9074054
+    mEndSample: 9074054
+  - mStartSample: 9078847
+    mEndSample: 9078847
+  - mStartSample: 9093228
+    mEndSample: 9093228
+  - mStartSample: 9098021
+    mEndSample: 9098021
+  - mStartSample: 9112402
+    mEndSample: 9112402
+  - mStartSample: 9117195
+    mEndSample: 9117195
+  - mStartSample: 9121989
+    mEndSample: 9121989
+  - mStartSample: 9136369
+    mEndSample: 9136369
+  - mStartSample: 9169923
+    mEndSample: 9169923
+  - mStartSample: 9174717
+    mEndSample: 9174717
+  - mStartSample: 9193891
+    mEndSample: 9193891
+  - mStartSample: 9198684
+    mEndSample: 9198684
+  - mStartSample: 9227445
+    mEndSample: 9227445
+  - mStartSample: 9232239
+    mEndSample: 9232239
+  - mStartSample: 9246619
+    mEndSample: 9246619
+  - mStartSample: 9251413
+    mEndSample: 9251413
+  - mStartSample: 9261000
+    mEndSample: 9318521
+  - mStartSample: 9342489
+    mEndSample: 9342489
+  - mStartSample: 9347282
+    mEndSample: 9347282
+  - mStartSample: 9361663
+    mEndSample: 9361663
+  - mStartSample: 9366456
+    mEndSample: 9366456
+  - mStartSample: 9385630
+    mEndSample: 9385630
+  - mStartSample: 9390423
+    mEndSample: 9390423
+  - mStartSample: 9400010
+    mEndSample: 9400010
+  - mStartSample: 9404804
+    mEndSample: 9404804
+  - mStartSample: 9423978
+    mEndSample: 9423978
+  - mStartSample: 9428771
+    mEndSample: 9428771
+  - mStartSample: 9443152
+    mEndSample: 9443152
+  - mStartSample: 9462326
+    mEndSample: 9462326
+  - mStartSample: 9467119
+    mEndSample: 9467119
+  - mStartSample: 9481500
+    mEndSample: 9481500
+  - mStartSample: 9486293
+    mEndSample: 9486293
+  - mStartSample: 9500673
+    mEndSample: 9500673
+  - mStartSample: 9505467
+    mEndSample: 9505467
+  - mStartSample: 9519847
+    mEndSample: 9519847
+  - mStartSample: 9524641
+    mEndSample: 9524641
+  - mStartSample: 9539021
+    mEndSample: 9539021
+  - mStartSample: 9543815
+    mEndSample: 9543815
+  - mStartSample: 9558195
+    mEndSample: 9558195
+  - mStartSample: 9562989
+    mEndSample: 9562989
+  - mStartSample: 9577369
+    mEndSample: 9577369
+  - mStartSample: 9582163
+    mEndSample: 9582163
+  - mStartSample: 9596543
+    mEndSample: 9596543
+  - mStartSample: 9601336
+    mEndSample: 9601336
+  - mStartSample: 9615717
+    mEndSample: 9615717
+  - mStartSample: 9620510
+    mEndSample: 9620510
+  - mStartSample: 9634891
+    mEndSample: 9634891
+  - mStartSample: 9639684
+    mEndSample: 9639684
+  - mStartSample: 9654065
+    mEndSample: 9654065
+  - mStartSample: 9658858
+    mEndSample: 9658858
+  - mStartSample: 9673239
+    mEndSample: 9673239
+  - mStartSample: 9678032
+    mEndSample: 9678032
+  - mStartSample: 9692413
+    mEndSample: 9692413
+  - mStartSample: 9697206
+    mEndSample: 9697206
+  - mStartSample: 9711586
+    mEndSample: 9711586
+  - mStartSample: 9716380
+    mEndSample: 9716380
+  - mStartSample: 9730760
+    mEndSample: 9730760
+  - mStartSample: 9735554
+    mEndSample: 9735554
+  - mStartSample: 9749934
+    mEndSample: 9749934
+  - mStartSample: 9764315
+    mEndSample: 9764315
+  - mStartSample: 9769108
+    mEndSample: 9769108
+  - mStartSample: 9773902
+    mEndSample: 9773902
+  - mStartSample: 9788282
+    mEndSample: 9788282
+  - mStartSample: 9793076
+    mEndSample: 9793076
+  - mStartSample: 9807456
+    mEndSample: 9807456
+  - mStartSample: 9812250
+    mEndSample: 9812250
+  - mStartSample: 9821836
+    mEndSample: 9821836
+  - mStartSample: 9826630
+    mEndSample: 9826630
+  - mStartSample: 9845804
+    mEndSample: 9845804
+  - mStartSample: 9850597
+    mEndSample: 9850597
+  - mStartSample: 9864978
+    mEndSample: 9864978
+  - mStartSample: 9879358
+    mEndSample: 9879358
+  - mStartSample: 9884152
+    mEndSample: 9884152
+  - mStartSample: 9888945
+    mEndSample: 9888945
+  - mStartSample: 9893739
+    mEndSample: 9893739
+  - mStartSample: 9898532
+    mEndSample: 9898532
+  - mStartSample: 9903326
+    mEndSample: 9903326
+  - mStartSample: 9908119
+    mEndSample: 9908119
+  - mStartSample: 9912913
+    mEndSample: 9912913
+  - mStartSample: 9917706
+    mEndSample: 9917706
+  - mStartSample: 9922500
+    mEndSample: 9922500
+  - mStartSample: 9927293
+    mEndSample: 9927293
+  - mStartSample: 9956054
+    mEndSample: 9984815
+  - mStartSample: 10104652
+    mEndSample: 10128619
+  - mStartSample: 10181347
+    mEndSample: 10210108
+  - mStartSample: 10258043
+    mEndSample: 10282010
+  - mStartSample: 10334739
+    mEndSample: 10368293
+  - mStartSample: 10406641
+    mEndSample: 10430608
+  - mStartSample: 10454576
+    mEndSample: 10454576
+  - mStartSample: 10459369
+    mEndSample: 10459369
+  - mStartSample: 10473750
+    mEndSample: 10473750
+  - mStartSample: 10478543
+    mEndSample: 10478543
+  - mStartSample: 10492923
+    mEndSample: 10492923
+  - mStartSample: 10497717
+    mEndSample: 10497717
+  - mStartSample: 10564826
+    mEndSample: 10588793
+  - mStartSample: 10607967
+    mEndSample: 10607967
+  - mStartSample: 10612760
+    mEndSample: 10612760
+  - mStartSample: 10617554
+    mEndSample: 10617554
+  - mStartSample: 10622347
+    mEndSample: 10622347
+  - mStartSample: 10627141
+    mEndSample: 10627141
+  - mStartSample: 10631934
+    mEndSample: 10631934
+  - mStartSample: 10636728
+    mEndSample: 10636728
+  - mStartSample: 10646315
+    mEndSample: 10679869
+  - mStartSample: 10694250
+    mEndSample: 10703836
+  - mStartSample: 10727804
+    mEndSample: 10756565
+  - mStartSample: 10761358
+    mEndSample: 10761358
+  - mStartSample: 10766152
+    mEndSample: 10766152
+  - mStartSample: 10770945
+    mEndSample: 10770945
+  - mStartSample: 10775739
+    mEndSample: 10775739
+  - mStartSample: 10780532
+    mEndSample: 10780532
+  - mStartSample: 10785326
+    mEndSample: 10785326
+  - mStartSample: 10790119
+    mEndSample: 10790119
+  - mStartSample: 10794913
+    mEndSample: 10794913
+  - mStartSample: 10799706
+    mEndSample: 10799706
+  - mStartSample: 10804500
+    mEndSample: 10804500
+  - mStartSample: 10838054
+    mEndSample: 10838054
+  - mStartSample: 10842848
+    mEndSample: 10842848
+  - mStartSample: 10847641
+    mEndSample: 10847641
+  - mStartSample: 10852435
+    mEndSample: 10852435
+  - mStartSample: 10857228
+    mEndSample: 10857228
+  - mStartSample: 10862022
+    mEndSample: 10862022
+  - mStartSample: 10866815
+    mEndSample: 10866815
+  - mStartSample: 10871609
+    mEndSample: 10871609
+  - mStartSample: 10876402
+    mEndSample: 10876402
+  - mStartSample: 10881196
+    mEndSample: 10881196
+  - mStartSample: 10914750
+    mEndSample: 10914750
+  - mStartSample: 10919544
+    mEndSample: 10919544
+  - mStartSample: 10924337
+    mEndSample: 10924337
+  - mStartSample: 10929131
+    mEndSample: 10929131
+  - mStartSample: 10933924
+    mEndSample: 10933924
+  - mStartSample: 10938718
+    mEndSample: 10938718
+  - mStartSample: 10943511
+    mEndSample: 10943511
+  - mStartSample: 10986652
+    mEndSample: 10986652
+  - mStartSample: 10991446
+    mEndSample: 10991446
+  - mStartSample: 10996239
+    mEndSample: 10996239
+  - mStartSample: 11001033
+    mEndSample: 11001033
+  - mStartSample: 11005826
+    mEndSample: 11005826
+  - mStartSample: 11010620
+    mEndSample: 11010620
+  - mStartSample: 11015413
+    mEndSample: 11015413
+  - mStartSample: 11020207
+    mEndSample: 11020207
+  - mStartSample: 11039380
+    mEndSample: 11039380
+  - mStartSample: 11044173
+    mEndSample: 11044173
+  - mStartSample: 11068141
+    mEndSample: 11068141
+  - mStartSample: 11072934
+    mEndSample: 11072934
+  - mStartSample: 11087315
+    mEndSample: 11087315
+  - mStartSample: 11092108
+    mEndSample: 11092108
+  - mStartSample: 11149630
+    mEndSample: 11149630
+  - mStartSample: 11168804
+    mEndSample: 11168804
+  - mStartSample: 11173597
+    mEndSample: 11173597
+  - mStartSample: 11187978
+    mEndSample: 11187978
+  - mStartSample: 11207152
+    mEndSample: 11207152
+  - mStartSample: 11211945
+    mEndSample: 11211945
+  - mStartSample: 11221532
+    mEndSample: 11221532
+  - mStartSample: 11226326
+    mEndSample: 11226326
+  - mStartSample: 11245500
+    mEndSample: 11245500
+  - mStartSample: 11264673
+    mEndSample: 11264673
+  - mStartSample: 11269467
+    mEndSample: 11269467
+  - mStartSample: 11279054
+    mEndSample: 11279054
+  - mStartSample: 11283847
+    mEndSample: 11283847
+  - mStartSample: 11288641
+    mEndSample: 11288641
+  - mStartSample: 11293434
+    mEndSample: 11293434
+  - mStartSample: 11303021
+    mEndSample: 11303021
+  - mStartSample: 11307815
+    mEndSample: 11307815
+  - mStartSample: 11322195
+    mEndSample: 11322195
+  - mStartSample: 11326989
+    mEndSample: 11326989
+  - mStartSample: 11336576
+    mEndSample: 11336576
+  - mStartSample: 11341369
+    mEndSample: 11341369
+  - mStartSample: 11350956
+    mEndSample: 11350956
+  - mStartSample: 11355750
+    mEndSample: 11355750
+  - mStartSample: 11360543
+    mEndSample: 11360543
+  - mStartSample: 11365337
+    mEndSample: 11365337
+  - mStartSample: 11370130
+    mEndSample: 11370130
+  - mStartSample: 11374924
+    mEndSample: 11374924
+  - mStartSample: 11379717
+    mEndSample: 11379717
+  - mStartSample: 11403684
+    mEndSample: 11403684
+  - mStartSample: 11418065
+    mEndSample: 11418065
+  - mStartSample: 11432445
+    mEndSample: 11432445
+  - mStartSample: 11437239
+    mEndSample: 11437239
+  - mStartSample: 11442032
+    mEndSample: 11442032
+  - mStartSample: 11446826
+    mEndSample: 11446826
+  - mStartSample: 11451619
+    mEndSample: 11451619
+  - mStartSample: 11456413
+    mEndSample: 11456413
+  - mStartSample: 11461206
+    mEndSample: 11461206
+  - mStartSample: 11475586
+    mEndSample: 11475586
+  - mStartSample: 11480380
+    mEndSample: 11480380
+  - mStartSample: 11494760
+    mEndSample: 11494760
+  - mStartSample: 11499554
+    mEndSample: 11499554
+  - mStartSample: 11504347
+    mEndSample: 11504347
+  - mStartSample: 11509141
+    mEndSample: 11509141
+  - mStartSample: 11528315
+    mEndSample: 11528315
+  - mStartSample: 11533108
+    mEndSample: 11533108
+  - mStartSample: 11537902
+    mEndSample: 11537902
+  - mStartSample: 11552282
+    mEndSample: 11552282
+  - mStartSample: 11557076
+    mEndSample: 11557076
+  - mStartSample: 11566663
+    mEndSample: 11566663
+  - mStartSample: 11571456
+    mEndSample: 11571456
+  - mStartSample: 11576250
+    mEndSample: 11576250
+  - mStartSample: 11605010
+    mEndSample: 11605010
+  - mStartSample: 11609804
+    mEndSample: 11609804
+  - mStartSample: 11624184
+    mEndSample: 11624184
+  - mStartSample: 11628978
+    mEndSample: 11628978
+  - mStartSample: 11633771
+    mEndSample: 11633771
+  - mStartSample: 11643358
+    mEndSample: 11643358
+  - mStartSample: 11648152
+    mEndSample: 11648152
+  - mStartSample: 11652945
+    mEndSample: 11652945
+  - mStartSample: 11705673
+    mEndSample: 11705673
+  - mStartSample: 11710467
+    mEndSample: 11710467
+  - mStartSample: 11720054
+    mEndSample: 11720054
+  - mStartSample: 11724847
+    mEndSample: 11724847
+  - mStartSample: 11763195
+    mEndSample: 11801543
+  - mStartSample: 11820717
+    mEndSample: 11820717
+  - mStartSample: 11839891
+    mEndSample: 11839891
+  - mStartSample: 11844684
+    mEndSample: 11844684
+  - mStartSample: 11854271
+    mEndSample: 11854271
+  - mStartSample: 11859065
+    mEndSample: 11859065
+  - mStartSample: 11873445
+    mEndSample: 11873445
+  - mStartSample: 11878239
+    mEndSample: 11878239
+  - mStartSample: 11883032
+    mEndSample: 11883032
+  - mStartSample: 11897413
+    mEndSample: 11897413
+  - mStartSample: 11902206
+    mEndSample: 11902206
+  - mStartSample: 11916586
+    mEndSample: 11916586
+  - mStartSample: 11921380
+    mEndSample: 11921380
+  - mStartSample: 11935760
+    mEndSample: 11935760
+  - mStartSample: 11940554
+    mEndSample: 11940554
+  - mStartSample: 11954934
+    mEndSample: 11954934
+  - mStartSample: 11974108
+    mEndSample: 11974108
+  - mStartSample: 11978902
+    mEndSample: 11978902
+  - mStartSample: 11993282
+    mEndSample: 11993282
+  - mStartSample: 12012456
+    mEndSample: 12012456
+  - mStartSample: 12017250
+    mEndSample: 12017250
+  - mStartSample: 12031630
+    mEndSample: 12031630
+  - mStartSample: 12036423
+    mEndSample: 12036423
+  - mStartSample: 12050804
+    mEndSample: 12050804
+  - mStartSample: 12055597
+    mEndSample: 12055597
+  - mStartSample: 12069978
+    mEndSample: 12069978
+  - mStartSample: 12074771
+    mEndSample: 12074771
+  - mStartSample: 12089152
+    mEndSample: 12089152
+  - mStartSample: 12093945
+    mEndSample: 12093945
+  - mStartSample: 12108326
+    mEndSample: 12108326
+  - mStartSample: 12122706
+    mEndSample: 12122706
+  - mStartSample: 12127500
+    mEndSample: 12127500
+  - mStartSample: 12146673
+    mEndSample: 12146673
+  - mStartSample: 12151467
+    mEndSample: 12151467
+  - mStartSample: 12165847
+    mEndSample: 12165847
+  - mStartSample: 12170641
+    mEndSample: 12170641
+  - mStartSample: 12185021
+    mEndSample: 12185021
+  - mStartSample: 12189815
+    mEndSample: 12189815
+  - mStartSample: 12204195
+    mEndSample: 12204195
+  - mStartSample: 12208989
+    mEndSample: 12208989
+  - mStartSample: 12223369
+    mEndSample: 12223369
+  - mStartSample: 12228163
+    mEndSample: 12228163
+  - mStartSample: 12242543
+    mEndSample: 12242543
+  - mStartSample: 12247336
+    mEndSample: 12247336
+  - mStartSample: 12261717
+    mEndSample: 12261717
+  - mStartSample: 12266510
+    mEndSample: 12266510
+  - mStartSample: 12280891
+    mEndSample: 12280891
+  - mStartSample: 12285684
+    mEndSample: 12285684
+  - mStartSample: 12295271
+    mEndSample: 12295271
+  - mStartSample: 12300065
+    mEndSample: 12300065
+  - mStartSample: 12319239
+    mEndSample: 12319239
+  - mStartSample: 12338413
+    mEndSample: 12338413
+  - mStartSample: 12343206
+    mEndSample: 12343206
+  - mStartSample: 12352793
+    mEndSample: 12352793
+  - mStartSample: 12357586
+    mEndSample: 12357586
+  - mStartSample: 12376760
+    mEndSample: 12376760
+  - mStartSample: 12381554
+    mEndSample: 12381554
+  - mStartSample: 12453456
+    mEndSample: 12453456
+  - mStartSample: 12487010
+    mEndSample: 12487010
+  - mStartSample: 12534945
+    mEndSample: 12534945
+  - mStartSample: 12573293
+    mEndSample: 12573293
+  - mStartSample: 12606847
+    mEndSample: 12606847
+  - mStartSample: 12640402
+    mEndSample: 12640402
+  - mStartSample: 12645195
+    mEndSample: 12645195
+  - mStartSample: 12649989
+    mEndSample: 12649989
+  - mStartSample: 12693130
+    mEndSample: 12693130
+  - mStartSample: 12765032
+    mEndSample: 12765032
+  - mStartSample: 12803380
+    mEndSample: 12803380
+  - mStartSample: 12841728
+    mEndSample: 12841728
+  - mStartSample: 12870489
+    mEndSample: 12870489
+  - mStartSample: 12875282
+    mEndSample: 12875282
+  - mStartSample: 12880076
+    mEndSample: 12880076
+  - mStartSample: 12908836
+    mEndSample: 12908836
+  - mStartSample: 12913630
+    mEndSample: 12913630
+  - mStartSample: 12918423
+    mEndSample: 12918423
+  - mStartSample: 12947184
+    mEndSample: 12947184
+  - mStartSample: 12951978
+    mEndSample: 12951978
+  - mStartSample: 12985532
+    mEndSample: 12985532
+  - mStartSample: 12990326
+    mEndSample: 12990326
+  - mStartSample: 13009500
+    mEndSample: 13009500
+  - mStartSample: 13062228
+    mEndSample: 13090989
+  - mStartSample: 13143717
+    mEndSample: 13177271
+  - mStartSample: 13215619
+    mEndSample: 13249173
+  - mStartSample: 13292315
+    mEndSample: 13330663
+  - mStartSample: 13373804
+    mEndSample: 13412152
+  - mStartSample: 13464880
+    mEndSample: 13498434
+  - mStartSample: 13522402
+    mEndSample: 13522402
+  - mStartSample: 13527195
+    mEndSample: 13527195
+  - mStartSample: 13546369
+    mEndSample: 13546369
+  - mStartSample: 13551163
+    mEndSample: 13551163
+  - mStartSample: 13565543
+    mEndSample: 13565543
+  - mStartSample: 13584717
+    mEndSample: 13584717
+  - mStartSample: 13603891
+    mEndSample: 13603891
+  - mStartSample: 13608684
+    mEndSample: 13608684
+  - mStartSample: 13613478
+    mEndSample: 13613478
+  - mStartSample: 13618271
+    mEndSample: 13618271
+  - mStartSample: 13623065
+    mEndSample: 13623065
+  - mStartSample: 13627858
+    mEndSample: 13627858
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.ColorPayload
+  _ColorPayloads:
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.369, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.65547806, g: 0.5019608, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.17, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.17, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.738, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.17, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.17, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.17, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.256, g: 0.815, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.23, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.805, g: 0.23, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.9, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 0.5, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.7, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.3, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.9, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.18451403, g: 0.6886792, b: 0.63048965, a: 1}
+  - mColorVal: {r: 0.18451403, g: 0.6886792, b: 0.63048965, a: 1}
+  - mColorVal: {r: 0.18451403, g: 0.6886792, b: 0.63048965, a: 1}
+  - mColorVal: {r: 0.18451403, g: 0.6886792, b: 0.63048965, a: 1}
+  - mColorVal: {r: 0.18451403, g: 0.6886792, b: 0.63048965, a: 1}
+  - mColorVal: {r: 1, g: 0.53207546, b: 0.7975908, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.5820968, g: 0.19209678, b: 0.6698113, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.4382017, g: 0.24033462, b: 0.8113208, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.6509434, g: 0.16826269, b: 0.6509434, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 0.50980395}
+  - mColorVal: {r: 0.36270913, g: 0.6698113, b: 1, a: 0.32156864}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 0.54509807}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 0.5254902}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 0.5254902}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 0.5254902}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 0.5254902}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 1, b: 0.476, a: 0.46666667}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 1, g: 0.5, b: 0.334, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 0.334, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 0.334, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 0.334, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.241, g: 0.653, b: 1, a: 0.4117647}
+  - mColorVal: {r: 0.752, g: 0.121, b: 0.277, a: 1}
+  - mColorVal: {r: 0.262, g: 0.866, b: 0.547, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.327, g: 0.746, b: 0.327, a: 0.654902}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.767, g: 0.121, b: 1, a: 1}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0.433, g: 0.661, b: 0.277, a: 0.5882353}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0, g: 0.17, b: 0.568, a: 0.34117648}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.582, g: 0.376, b: 1, a: 1}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 0.326, g: 0.668, b: 0.334, a: 0.6313726}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.668, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.327, a: 1}
+  - mColorVal: {r: 0.838, g: 0.23921567, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.618, b: 0.611, a: 1}
+  - mColorVal: {r: 0.497, g: 0.497, b: 0.291, a: 0.5176471}
+  - mColorVal: {r: 1, g: 0.27, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.348, g: 0.642, b: 1, a: 1}
+  - mColorVal: {r: 0.348, g: 0.642, b: 1, a: 1}
+  - mColorVal: {r: 0.348, g: 0.642, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 0.526, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.2, g: 0.5, b: 1, a: 0.69803923}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0.298, g: 0.817, b: 0.554, a: 0.5764706}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.149, g: 0.696, b: 0.696, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.724, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.9, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.9, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.9, g: 0.9, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0.8, g: 0.8, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.781, g: 0.284, b: 1, a: 1}
+  - mColorVal: {r: 0.781, g: 0.284, b: 1, a: 1}
+  - mColorVal: {r: 0.781, g: 0.284, b: 1, a: 1}
+  - mColorVal: {r: 0.781, g: 0.284, b: 1, a: 1}
+  - mColorVal: {r: 0.369, g: 0.625, b: 0.561, a: 1}
+  - mColorVal: {r: 0.369, g: 0.625, b: 0.561, a: 1}
+  - mColorVal: {r: 0.369, g: 0.625, b: 0.561, a: 1}
+  - mColorVal: {r: 0.369, g: 0.625, b: 0.561, a: 1}
+  - mColorVal: {r: 0.369, g: 0.625, b: 0.561, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.2, g: 0.2, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.3, b: 1, a: 1}
+  - mColorVal: {r: 0.4, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.6, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.7, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0.5, g: 0.5, b: 0.5, a: 0.5019608}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 0.341, g: 0.625, b: 0.376, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.533, g: 0.533, b: 0.384, a: 1}
+  - mColorVal: {r: 0.533, g: 0.533, b: 0.384, a: 1}
+  - mColorVal: {r: 0.533, g: 0.533, b: 0.384, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.7, g: 0.6, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.3, g: 0.4, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.62352943, b: 0.671926, a: 1}
+  - mColorVal: {r: 0.1, g: 0.1, b: 1, a: 1}
+  - mColorVal: {r: 0.76, g: 0, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 1, b: 1, a: 1}
+  - mColorVal: {r: 1, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.213, g: 0.717, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  - mColorVal: {r: 0.5, g: 0.5, b: 1, a: 1}
+  _ColorPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f0300007003000071030000
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

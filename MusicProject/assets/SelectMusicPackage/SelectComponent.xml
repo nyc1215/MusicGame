@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n0_qlxj" name="background" xy="0,0" size="1920,1080" type="rect"/>
+    <component id="n3_qlxj" name="backButton" src="qlxj3" fileName="Back_Button.xml" xy="49,43" size="150,150"/>
+    <text id="n4_qlxj" name="title" xy="596,33" size="728,170" font="ui://xfdhb4j9saysr" fontSize="120" align="center" autoSize="none" text="选择音乐">
+      <relation target="" sidePair="center-center"/>
+      <relation target="n5_qlxj" sidePair=""/>
+      <relation target="n6_qlxj" sidePair=""/>
+    </text>
+    <component id="n5_qlxj" name="up" src="qlxj3" fileName="Back_Button.xml" xy="1026,234" size="150,150" skew="90,90"/>
+    <component id="n6_qlxj" name="down" src="qlxj3" fileName="Back_Button.xml" xy="876,1003" size="150,150" skew="-90,-90"/>
+    <text id="n9_qlxj" name="musicInfo" xy="364,454" size="1191,326" fontSize="60" align="center" vAlign="middle" vars="true" autoSize="none" text="{music=null}&#xA;{min=0} : {sec=0}"/>
+    <component id="n12_tkop" name="startButton" src="tkop9" fileName="StartButton.xml" xy="1665,537" size="150,150"/>
+    <text id="n13_tkop" name="startText" xy="1615,724" size="262,67" visible="false" font="ui://xfdhb4j9saysr" fontSize="40" autoSize="none" text="点击开始游戏"/>
+  </displayList>
+</component>

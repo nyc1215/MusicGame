@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Starlit Black
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: c7b4c6d989ca0db47af6748c3512fd43, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 3b56af1bbfcf0e0499732e8defc75020, type: 2}
+  - {fileID: 11400000, guid: 03bde5fd7377cf34fb86ecb243b86b15, type: 2}
+  - {fileID: 11400000, guid: d7c46f6604d6a7249bc23903236ebf0a, type: 2}

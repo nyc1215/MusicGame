@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xfdhb4j9">
+  <resources>
+    <font id="saysp" name="Arual.ttf" path="/" exported="true" renderMode="" samplePointSize="16"/>
+    <font id="saysr" name="SourceHanSansHWSC-Regular.otf" path="/" exported="true" renderMode="" samplePointSize="16"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

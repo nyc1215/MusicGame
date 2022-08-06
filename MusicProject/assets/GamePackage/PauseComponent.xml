@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,300" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <graph id="n0_m25v" name="background" xy="0,0" size="800,300" alpha="0.8" type="rect"/>
+    <text id="n2_m25v" name="n2" xy="95,225" size="84,54" font="ui://xfdhb4j9saysr" fontSize="40" text="继续"/>
+    <text id="n5_m25v" name="n5" xy="335,225" size="164,54" font="ui://xfdhb4j9saysr" fontSize="40" text="重新开始"/>
+    <text id="n6_m25v" name="n6" xy="596,226" size="164,54" font="ui://xfdhb4j9saysr" fontSize="40" text="退出游戏"/>
+    <component id="n1_m25v" name="ContinueButton" src="m25v8" fileName="ContinueButton.xml" xy="60,50" size="150,150"/>
+    <component id="n3_m25v" name="quitButton" src="m25v9" fileName="backButton.xml" xy="595,50" size="150,150"/>
+    <component id="n4_m25v" name="restartButton" src="m25va" fileName="reStartButton.xml" xy="335,50" size="150,150"/>
+  </displayList>
+</component>

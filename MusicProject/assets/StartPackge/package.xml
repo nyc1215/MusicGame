@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xixavdlv">
+  <resources>
+    <component id="saysf" name="Start_Button.xml" path="/Button/" exported="true"/>
+    <component id="saysg" name="Tutorial_Button.xml" path="/Button/" exported="true"/>
+    <component id="saysh" name="Quit_Button.xml" path="/Button/" exported="true"/>
+    <component id="saysi" name="StartMain.xml" path="/" exported="true"/>
+    <component id="saysl" name="Info_Button.xml" path="/Button/" exported="true"/>
+    <component id="saysn" name="Setting_Button.xml" path="/Button/" exported="true"/>
+    <image id="saysm" name="iconmonstr-gear-1-240.png" path="/Images/"/>
+    <image id="saysj" name="iconmonstr-info-5-240.png" path="/Images/"/>
+    <image id="saysk" name="iconmonstr-info-6-240.png" path="/Images/"/>
+    <image id="saysb" name="教程-按钮.png" path="/Images/"/>
+    <image id="saysc" name="教程-按钮按下.png" path="/Images/"/>
+    <image id="saysd" name="教程-按钮滑过.png" path="/Images/"/>
+    <image id="sayse" name="开始选歌-按钮.png" path="/Images/"/>
+    <image id="says6" name="开始选歌-按钮按下.png" path="/Images/"/>
+    <image id="says7" name="开始选歌-按钮滑过.png" path="/Images/" scale9grid="0,0,0,-46"/>
+    <image id="says8" name="退出-按钮.png" path="/Images/" scale9grid="0,0,0,-46"/>
+    <image id="says9" name="退出-按钮按下.png" path="/Images/"/>
+    <image id="saysa" name="退出-按钮滑过.png" path="/Images/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

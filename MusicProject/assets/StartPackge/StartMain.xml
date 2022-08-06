@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <graph id="n6_says" name="background" xy="0,0" size="1920,1080" type="rect"/>
+    <component id="n0_says" name="infoButton" src="saysl" fileName="Button/Info_Button.xml" xy="50,43" size="150,149" aspect="true"/>
+    <component id="n1_says" name="settingButton" src="saysn" fileName="Button/Setting_Button.xml" xy="1720,43" size="150,150" aspect="true"/>
+    <component id="n2_says" name="startButton" src="saysf" fileName="Button/Start_Button.xml" xy="543,398" aspect="true"/>
+    <component id="n3_says" name="tutorialButton" src="saysg" fileName="Button/Tutorial_Button.xml" xy="543,631"/>
+    <component id="n4_says" name="quitButton" src="saysh" fileName="Button/Quit_Button.xml" xy="543,859" aspect="true"/>
+    <text id="n5_says" name="title" xy="447,109" size="1026,154" font="ui://xfdhb4j9saysr" fontSize="120" align="center" autoSize="none" bold="true" text="Music Blocks"/>
+  </displayList>
+</component>

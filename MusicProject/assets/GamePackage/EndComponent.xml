@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <graph id="n0_hgbt" name="background" xy="0,0" size="800,600" alpha="0.8" type="rect"/>
+    <component id="n1_hgbt" name="restartButton" src="m25va" fileName="reStartButton.xml" xy="150,217" size="150,150"/>
+    <text id="n2_hgbt" name="n2" xy="150,380" size="164,54" font="ui://xfdhb4j9saysr" fontSize="40" text="重新开始"/>
+    <component id="n3_hgbt" name="quitButton" src="m25v9" fileName="backButton.xml" xy="500,215" size="150,150"/>
+    <text id="n4_hgbt" name="n4" xy="513,380" size="164,54" font="ui://xfdhb4j9saysr" fontSize="40" text="退出游戏"/>
+    <text id="n5_hgbt" name="endtext" xy="181,60" size="437,105" font="ui://xfdhb4j9saysr" fontSize="60" align="center" vars="true" autoSize="none" text="{endtext=null}"/>
+  </displayList>
+</component>

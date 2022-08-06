@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9i7lhqlx">
+  <resources>
+    <component id="lh0u0" name="TutotralComponent.xml" path="/" exported="true"/>
+    <component id="uut11" name="Back_Button.xml" path="/" exported="true"/>
+    <image id="uut12" name="iconmonstr-arrow-64-240.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

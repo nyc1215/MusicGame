@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5sfl7eor">
+  <resources>
+    <component id="qlxj0" name="SelectComponent.xml" path="/" exported="true"/>
+    <image id="qlxj1" name="iconmonstr-arrow-64-240.png" path="/"/>
+    <component id="qlxj3" name="Back_Button.xml" path="/" exported="true"/>
+    <image id="ehp34" name="iconmonstr-video-13-240.png" path="/"/>
+    <image id="ehp35" name="iconmonstr-video-15-240.png" path="/"/>
+    <image id="ehp36" name="iconmonstr-media-control-49-240.png" path="/"/>
+    <component id="tkop9" name="StartButton.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
